@@ -16,4 +16,4 @@ Extended Image Processing
 - Pei&Lin Normalization
 - Ridge Detection Filter
 - Binary morphology on run-length encoded images
-- Global sampling method for matting
+- Global sampling based method for alpha matting
